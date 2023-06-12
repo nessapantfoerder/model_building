@@ -106,6 +106,6 @@ The final model's performance, as measured by the F1 score, is an improvement ov
 - Therefore, we reject the null hypothesis that the two groups perform the same. 
 - Thus the observed differences in our groups' performance are not due to random chance.
 
-<iframe src="fairness-analysis.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="fairness-analysis.html" width=600 height=450 frameBorder=0></iframe>
 
 ---
