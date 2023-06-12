@@ -69,7 +69,7 @@ The hyperparameters that performed the best for the model were 'model__max_depth
 
 The final model's performance, as measured by the F1 score, is an improvement over the baseline model's performance. The inclusion of additional features, outage duration, and customers affected, provides the model with more information to make accurate predictions. By considering these features, the model can capture the relationships specific to the data generating process of power outages. The hyperparameter tuning further refines the model's performance by finding the optimal parameters of the decision tree classifier. The resulting F1 score of 0.69 in the final model indicates an improvement over the baseline model, demonstrating the effectiveness of the selected features and the tuned hyperparameters in enhancing predictive performance.
 
-<iframe src="confusion-matrix.html" width=800 height=600 frameBorder=0></iframe>
+<img src='my_plot.png' width=800 height=600 frameBorder=0></img>
 
 ---
 
